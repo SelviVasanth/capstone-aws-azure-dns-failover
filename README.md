@@ -12,7 +12,8 @@ This capstone project demonstrates a resilient, multi-cloud architecture for a l
 - **Failover Logic**: Health probes and DNS-based rerouting
 - **Security**: NSG and SG rules for HTTP/SSH access
 
-![Architecture Diagram](architecture-diagram.png)
+[View Architecture Diagram](screenshots/Architecture-Diagram.png)
+
 
 ## Technologies Used
 
